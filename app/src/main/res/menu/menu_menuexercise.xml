@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/miChange"
+        android:title="@string/miChange">
+        <menu>
+            <item
+                android:id="@+id/miBgColor"
+                android:title="@string/miBgColor"
+                />
+            <item
+                android:id="@+id/miText"
+                android:title="@string/miText"
+                />
+            <item
+                android:id="@+id/miTextColor"
+                android:title="@string/miTextColor"
+                />
+            <item
+                android:title="@string/miTextSize"
+                android:id="@+id/miTextSize"
+                />
+            <item
+                android:id="@+id/miTextVisible"
+                android:title="@string/miTextVisibility"
+                />
+        </menu>
+    </item>
+    <item
+        android:id="@+id/miReset"
+        android:title="@string/miReset" />
+    <item
+        android:id="@+id/miExit"
+        android:title="@string/miExit" />
+</menu>

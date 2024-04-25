@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Android Project Collection</string>
+    <string name="txtSamp1">Match Found</string>
+    <string name="txtScore">Score: </string>
+    <string name="btnRestart">Restart</string>
+    <string name="btnLayExercise">Layout Exercise</string>
+    <string name="btnButtonExercise">Button Exercise</string>
+    <string name="btnCalculator">Calculator</string>
+    <string name="btnTTT">Midterm</string>
+    <string name="btnMatch">Match Three</string>
+    <string name="btnPassInt">Passing Intent</string>
+    <string name="btnFragment">Fragments</string>
+    <string name="btnMenus">Menus</string>
+    <string name="textView10">Gender</string>
+    <string name="f_name_cin">First Name</string>
+    <string name="l_name_cin">Last Name</string>
+    <string name="rbtnMale">Male</string>
+    <string name="rbtnFemale">Female</string>
+    <string name="rbtnOthers">Others</string>
+    <string name="bday_cin">Birth Date:</string>
+    <string name="emailAdd_cin">Email Address:</string>
+    <string name="phoneNum_cin">Phone Number:</string>
+    <string name="year_cin">Year:</string>
+    <string name="address_cin">Address:</string>
+    <string name="studentID_cin">Student ID:</string>
+    <string name="course_cin">Course:</string>
+    <string name="age_cin">Age:</string>
+    <string name="btnClear">Clear</string>
+    <string name="btnSubmit">Submit</string>
+<!--    <string_array name="txt_autocomp">-->
+<!--        <item>1</item>-->
+<!--        <item>2</item>-->
+<!--        <item>3</item>-->
+<!--        <item>4</item>-->
+<!--    </string_array>-->
+    <string name="miChange">Change</string>
+    <string name="miReset">Reset</string>
+    <string name="miExit">Exit</string>
+    <string name="miBgColor">Background Color</string>
+    <string name="miTextColor">Text Color</string>
+    <string name="miText">Text</string>
+    <string name="miTextSize">Text Size</string>
+    <string name="miTextVisibility">Text Visibility</string>
+</resources>
